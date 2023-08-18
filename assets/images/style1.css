@@ -2612,7 +2612,6 @@ div#bottombar {
     animation-timing-function: 1;
     animation-delay: 3s;
 }
-
 @keyframes coments {
     0% {
         top: 0px;
