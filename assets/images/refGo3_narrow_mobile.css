@@ -1,0 +1,39 @@
+#mainBody .formArea {
+  font-size: 16px;
+}
+#phone-form{
+  text-align: center;
+}
+#phone-form .input-group{
+  display: block;
+  position: inherit;
+  text-align: center;
+  margin: auto;
+  margin: 20px 0px;
+}
+#phone-form .input-group .form-control{
+  float: none;
+  max-width: 100%;
+  margin: 0;
+  border-radius: 0;
+  display: block;
+  box-shadow: none;
+}
+#phone-form .input-group .input-group-btn>.btn{
+  width: 100%;
+}
+#mainBody h2{
+  font-size: 24px;
+}
+#single_mom_head_line{
+  font-size: 24px;
+  margin: 0px 0px 15px!important;
+  line-height: 28px;
+}
+#single_mom_head_line>a{
+  font-size: 24px!important;
+  line-height: 28px;
+}
+#content{
+  padding: 60px 10px 40px!important;
+}
